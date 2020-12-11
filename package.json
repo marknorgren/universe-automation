@@ -1,0 +1,21 @@
+{
+  "name": "@mrkd/universe-automation",
+  "version": "1.0.0",
+  "description": "Demo repository for GitHub Universe 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified, but that's alright for now!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkd/universe-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkd/universe-automation/issues"
+  },
+  "homepage": "https://github.com/mrkd/universe-automation#readme",
+  "dependencies": {}
+}
